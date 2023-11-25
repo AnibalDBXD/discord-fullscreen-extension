@@ -1,4 +1,4 @@
-Install extension:
+## Install extension:
 
 ```bash
 git clone https://github.com/AnibalDBXD/discord-fullscreen-extension
